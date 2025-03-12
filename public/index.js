@@ -111,3 +111,4 @@ document.addEventListener('keydown', handleKeyPress)
 
 //win page?
 //css square animations? (flip reveal, invalid word shake)
+//track user, save progress if exit and return to page
